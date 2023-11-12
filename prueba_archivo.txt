@@ -1,0 +1,34 @@
+DPI;Primer nombre;Segundo nombre;Primer apellido;Segundo apellido;Direccion;Correo Electronico;Telefono;
+2134567891011;Karla;Ana Rocely;Gracia;Zuleta;Ciudad de Guatemala;kgarcia@miumg.edu.gt;50255568849;
+4526541256446;Juan;Jose;Juarez;Leal;Zona 10 Guatemala;jluarez@gmail.com;50245652585;
+4526541256565;Nohemy;Jose;Juarez;Leal;Zona 10 Guatemala;njuarez@gmail.com;50245652585;
+2782754510608;Ronaldo;Pedro;Lopez;De la Cruz;Ciudad de Guatemala;correo@gmail.com;468784845157;
+5226541256446;Juan;Jose;Juarez;Leal;Zona 10 Guatemala;jluarez@miumg.edu.gt;50245652585;
+1026541256446;Mario;Jose;Juarez;Leal;Zona 10 Guatemala;jluarez@gmail.com;50245652585;
+1226541256446;Juan;Jose;Juarez;Leal;Zona 10 Guatemala;jluarez@gmail.com;50245652585;
+1326541256446;Ruperto;Pedro;Juarez;Leal;Zona 10 Guatemala;jluarez@gmail.com;50245652585;
+1426541256446;Maria;Josefa;Juarez;Leal;Zona 10 Guatemala;jluarez@gmail.com;50245652585;
+1526541256446;Bryan;Jose;Juarez;Leal;Zona 10 Guatemala;sluarez@gmail.com;50245652585;
+2626541256446;Juan;Jose;Juarez;Leal;Zona 10 Guatemala;sluarez@gmail.com;50245652585;
+1826541256446;Erick;Rene;Juarez;Leal;Zona 10 Guatemala;dluarez@gmail.com;50245652585;
+1926541256446;Sergio;Lucas;Juarez;Leal;Zona 10 Guatemala;tluarez@gmail.com;50245652585;
+2026541256446;Jerardo;Jose;Juarez;Leal;Zona 10 Guatemala;aluarez@gmail.com;50245652585;
+2126541256446;Alejandra;Jose;Juarez;Leal;Zona 10 Guatemala;jluarez@gmail.com;50245652585;
+2226541256446;Lesther;Joel;Juarez;Leal;Zona 10 Guatemala;jluarez@gmail.com;50245652585;
+3526541256446;Marcela;Jose;Juarez;Leal;Zona 10 Guatemala;jluarez@gmail.com;50245652585;
+2326541256564;Osvaldo;Jose;Juarez;Leal;Zona 10 Guatemala;jluarez@gmail.com;50245652585;
+2426541256866;Jenifer;Juana;Juarez;Leal;Zona 10 Guatemala;jluarez@gmail.com;50245652585;
+2526541256484;Policarpio;Jose;Juarez;Leal;Zona 10 Guatemala;jluarez@gmail.com;50245652585;
+2665541256451;Paola;Polanco;Juarez;Leal;Zona 10 Guatemala;mluarez@gmail.com;50245652585;
+2726541256455;Flor;Maria;Lopez;Leal;Zona 10 Guatemala;jluarez@gmail.com;50245652585;
+2826541256452;Maria;Nico;Juarez;Leal;Zona 10 Guatemala;jluarez@gmail.com;50245652585;
+2926541256495;Rafael;Jose;Juarez;Leal;Zona 10 Guatemala;jluarez@gmail.com;50245652585;
+3026541256496;Mariano;Jose;Juarez;Leal;Zona 10 Guatemala;jluarez@gmail.com;50245652585;
+3126541256469;Delfino;Jose;Juarez;Leal;Zona 10 Guatemala;jluarez@gmail.com;50245652585;
+3326541256446;Karolina;Jose;Juarez;Leal;Zona 10 Guatemala;jluarez@gmail.com;50245652585;
+3226541256448;Zara;Jose;Juarez;Leal;Zona 10 Guatemala;jluarez@gmail.com;50245652585;
+3426541256446;Raul;Jose;Juarez;Leal;Zona 10 Guatemala;jluarez@gmail.com;50245652585;
+3626541256455;Soila;Jose;Juarez;Leal;Zona 10 Guatemala;jluarez@gmail.com;50245652585;
+3526541256446;Mariela;Jose;Juarez;Leal;Zona 10 Guatemala;jluarez@gmail.com;50245652585;
+
+

@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1684992786 source:c:\users\alann\documents\pruebasc\hashtablesdireccionamientoabierto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"ustd.h"
+
+1684984729 c:\users\alann\documents\pruebasc\hashtablesdireccionamientoabierto\ustd.h
+
+1684984744 source:c:\users\alann\documents\pruebasc\hashtablesdireccionamientoabierto\ustd.c
+	"ustd.h"
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
+1684985484 source:c:\users\alann\documents\pruebasc\hashtablesdireccionamientoabierto\cargas_archivos.c
+	"cargas_archivos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+
+1684981949 c:\users\alann\documents\pruebasc\hashtablesdireccionamientoabierto\cargas_archivos.h
+
+1684985484 source:c:\users\wilson\documents\hashtablesdireccionamientoabierto\cargas_archivos.c
+	"cargas_archivos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+
+1684981949 c:\users\wilson\documents\hashtablesdireccionamientoabierto\cargas_archivos.h
+
+1684984744 source:c:\users\wilson\documents\hashtablesdireccionamientoabierto\ustd.c
+	"ustd.h"
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
+1684984729 c:\users\wilson\documents\hashtablesdireccionamientoabierto\ustd.h
+
